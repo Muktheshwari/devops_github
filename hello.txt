@@ -3,6 +3,10 @@ this is my first project
 how are you
 hi this is anothet
 
+<<<<<<< HEAD
 this is hello.txt in master(for rebase)
 
 this is aggain modifying te file
+=======
+inserting the merge conflict in mybranch
+>>>>>>> edited hello.txt in mybranch
